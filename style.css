@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+div{
+    text-align: center;
+    margin-left: 480px;
+    margin-right: 480px;
+    border-radius: 2px;
+}
+body{
+   background-image: url(infor_img.jpeg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+}
+p{
+    color: rgb(252, 252, 252);
+    text-indent: 10px;
+    text-align: justify;
+}
+h1{
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+main{
+    max-width: 800px;
+    min-width: 320px;
+    margin: auto;
+}
